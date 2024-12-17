@@ -1,5 +1,5 @@
 export const data = [
-	'Learn React ⚛️',
-	'Apply for jobs 💼',
-	'Invest your new income 🤑',
+	{ task: 'Learn React ⚛️', id: 1 },
+	{ task: 'Apply for jobs 💼', id: 2 },
+	{ task: 'Invest your new income 🤑', id: 3 },
 ];

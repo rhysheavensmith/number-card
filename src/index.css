@@ -65,6 +65,11 @@ body {
 	gap: 10px;
 }
 
+.buttons button:hover {
+	background-color: #7950f2;
+	color: white;
+}
+
 .buttons button span {
 	font-size: 16px;
 	line-height: 1;
